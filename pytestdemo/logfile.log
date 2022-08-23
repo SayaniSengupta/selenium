@@ -1,0 +1,10 @@
+
+2022-08-23 14:50:24,402: INFO: pytestdemo.Baseclass: ['sayani', 'sengupta']
+2022-08-23 14:53:33,983: INFO: test_demo: ['sayani', 'sengupta']
+2022-08-23 14:54:32,408: INFO: test_demo: ['sayani', 'sengupta']
+2022-08-23 15:01:05,541: INFO: test_demo: ['sayani', 'sengupta']
+2022-08-23 15:04:48,959: INFO: test_demo: ['sayani', 'sengupta']
+2022-08-23 15:10:06,560: INFO: test_demo: ['sayani', 'sengupta']
+2022-08-23 15:12:52,650: INFO: test_demo: ['sayani', 'sengupta']
+2022-08-23 15:13:05,029: INFO: test_demo: ['sayani', 'sengupta']
+2022-08-23 15:15:57,357: INFO: test_edit: ['sayani', 'sengupta']
